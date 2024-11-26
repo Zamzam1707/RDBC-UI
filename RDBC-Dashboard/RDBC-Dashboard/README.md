@@ -53,7 +53,7 @@ Ensure you have the following installed on your system:
 
 2. Setup Instructions
    - Clone the repository:
-         git clone
+         git clone https://github.com/Zamzam1707/RDBC-UI/tree/main/RDBC-Dashboard/RDBC-Dashboard.git
          cd rbac-ui
    - Install dependencies:
          npm install
@@ -156,8 +156,8 @@ Mock API integration to simulate server calls for CRUD operations.
 
 #### Contact
 For any queries or feedback, please contact:
-   - Mahwish Rizwan: mahwishrzwn@gmail.com
-GitHub Profile: https://github.com/MahwishRizwan
+   - Zamzam Raza: razazamzam92@gmail.com
+GitHub Profile: https://github.com/Zamzam1707
 
 
 #### Conclusion:
